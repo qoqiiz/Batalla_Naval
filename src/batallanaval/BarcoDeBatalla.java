@@ -1,6 +1,17 @@
 
 package batallanaval;
 
-public class BarcoDeBatalla {
+public class BarcoDeBatalla implements Barcos {
+
+    public Integer Posicion(int x, int y) {
+return null;    }
+
+    public Boolean Disparo(int x, int y) {
+return null;
+    }
+
+    public Boolean Hundimiento(int x, int y) {
+return null;
+    }
     
 }
